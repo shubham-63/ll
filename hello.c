@@ -1,3 +1,10 @@
 
 //
 //
+//
+//
+//
+//
+/*ckslkcbcbkjscI*/
+//
+#include<stdio.h>
